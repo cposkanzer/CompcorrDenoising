@@ -1,4 +1,4 @@
-# GLM
+# Denoising Pipeline
 Run scripts in this order:
 1. denoise_shrink_mask.py
 2. coregister_noise.py
